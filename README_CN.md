@@ -235,33 +235,33 @@ T-Echo-Lite-Kit为T-Echo-Lite的底板扩展，主要扩展了键盘、扬声器
 
 2. 下载版本 4.1.7 或最新版本（选择 Linux、macOS 或 Windows）
 
-   ![thonny1](C:\Users\Xinyuan\Desktop\GitHub\LilyGo-T-Pico2-MicroPython\image\thonny1.png)
+   ![thonny1](image\thonny1.png)
 
 3. 安装完安装包后，打开 Thonny IDE
 
 4. 点击配置解释器
 
-   ![thonny2](C:\Users\Xinyuan\Desktop\GitHub\LilyGo-T-Pico2-MicroPython\image\thonny2.png)
+   ![thonny2](image\thonny2.png)
 
 5. 选择MicroPython (通用)
 
-   ![thonny3](C:\Users\Xinyuan\Desktop\GitHub\LilyGo-T-Pico2-MicroPython\image\thonny3.png)
+   ![thonny3](image\thonny3.png)
 
 6. 选择相应的端口号并确认
 
-   ![thonny4](C:\Users\Xinyuan\Desktop\GitHub\LilyGo-T-Pico2-MicroPython\image\thonny4.png)
+   ![thonny4](image\thonny4.png)
 
 7. 运行程序（在下方打印“hello world”即可。可使用快捷键 F5 运行程序，Ctrl+F2 结束程序）
 
    `print("hello world")`
 
-   ![thonny5](C:\Users\Xinyuan\Desktop\GitHub\LilyGo-T-Pico2-MicroPython\image\thonny5.png)
+   ![thonny5](image\thonny5.png)
 
 8. 如果要自动运行程序，请点击“保存”，然后选择 MicroPython 设备，并将其命名为 main.py
 
-   ![thonny6](C:\Users\Xinyuan\Desktop\GitHub\LilyGo-T-Pico2-MicroPython\image\thonny6.png)
+   ![thonny6](image\thonny6.png)
 
-   ![thonny7](C:\Users\Xinyuan\Desktop\GitHub\LilyGo-T-Pico2-MicroPython\image\thonny7.png)
+   ![thonny7](image\thonny7.png)
 
 9. 成功保存后，请重启T-Echo-Lite设备
 
@@ -273,19 +273,19 @@ T-Echo-Lite-Kit为T-Echo-Lite的底板扩展，主要扩展了键盘、扬声器
 
 3. 打开文件夹，然后运行“Arduino Lab for MicroPython.exe”
 
-   ![Arduino1](C:\Users\Xinyuan\Desktop\GitHub\LilyGo-T-Pico2-MicroPython\image\Arduino1.png)
+   ![Arduino1](image\Arduino1.png)
 
 4. 连接对应端口号
 
-   ![Arduino2](C:\Users\Xinyuan\Desktop\GitHub\LilyGo-T-Pico2-MicroPython\image\Arduino2.png)
+   ![Arduino2](image\Arduino2.png)
 
 5. 点击运行程序（如需停止程序，请点击停止）。
 
-   ![Arduino3](C:\Users\Xinyuan\Desktop\GitHub\LilyGo-T-Pico2-MicroPython\image\Arduino3.png)
+   ![Arduino3](image\Arduino3.png)
 
 6. 如果要自动运行程序，请点击“文件”，然后创建一个名为“main.py”的新代码。选择“Board”，将代码写入 main.py 文件并保存。然后重置 T-Echo-Lite。
 
-   ![Arduino4](C:\Users\Xinyuan\Desktop\GitHub\LilyGo-T-Pico2-MicroPython\image\Arduino4.png)
+   ![Arduino4](image\Arduino4.png)
 
 #### 3.RT-Thread MicroPython
 
