@@ -229,7 +229,7 @@ T-Echo-Lite-Kit is a baseboard expansion for T-Echo-Lite, primarily extending pe
 
 2. Download version 4.1.7 or the latest version (Choose Linux or macOS or Windows)
 
-   ![thonny1](image\thonny1.png)
+   ![thonny1](image/thonny1.png)
 
 3. After installing the installation package, open Thonny IDE
 
